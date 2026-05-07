@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
+<<<<<<< HEAD
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=👋+Hola%2C+soy+Sol;Junior+Web+Developer;Ex-crimin%C3%B3loga+convertida+en+dev+%F0%9F%92%BB;Siempre+aprendiendo+y+compartiendo" alt="Typing SVG" />
   </a>
 </p>
@@ -26,6 +27,22 @@
 
 ## 🌐 Contacto
 
+=======
+    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78627&width=435&lines=Hola%F0%9F%91%8B%2C+soy+Sol!;Junior+Web+Developer+;Ex-crimin%C3%B3loga+convertida+en+dev+%F0%9F%92%BB+;Siempre+aprendiendo+)](https://git.io/typing-svg)" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="left"> <h1>💫 Sobre mi: </h1> </p>
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM5MmN0bGt1aWltc3l5NGlpZ3ozanl1aWNzNXV0MWVlOW8yNzU1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cekRR561cp6tpnG8ZC/giphy.gif" />
+<p>
+👋 ¡Hola! Soy **Sol**, **Junior Web Developer** en constante evolución.  <br>
+💼 Actualmente desarrollo aplicaciones web y refuerzo mis habilidades día a día. <br>
+🌱 Estoy aprendiendo: **React**, **AWS**, **IA** y **API REST**. <br>
+⚡ Dato curioso: Soy criminóloga!  <br>
+📚 Apasionada por la tecnología, la resolución de problemas y el aprendizaje continuo.<br>
+</p>
+<h1> ✉️Contacto: </h1> 
+>>>>>>> 96e633188ff885df6360798a03155ecccc39cb52
 <div align="left">
   <a href="https://www.linkedin.com/in/natashasolange/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
@@ -40,6 +57,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
 </div>
+<<<<<<< HEAD
 
 ---
 
@@ -54,10 +72,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+=======
+<h1> 👀Habilidades: </h1> 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+>>>>>>> 96e633188ff885df6360798a03155ecccc39cb52
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
   <img width="12" />
+<<<<<<< HEAD
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+=======
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+>>>>>>> 96e633188ff885df6360798a03155ecccc39cb52
 </div>
 
 ### Frameworks & Librerías
@@ -105,6 +147,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soletion&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=slateorange&locale=es&hide_border=true&order=1" height="150" alt="stats graph"/>
+<<<<<<< HEAD
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soletion&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=true&order=2" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=Soletion&theme=slateorange&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
 </div>
@@ -112,9 +155,21 @@
 ---
 
 ## 📈 Métricas avanzadas
+=======
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soletion&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Soletion&theme=apprentice&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+<h2></h2> 
+<img src="https://raw.githubusercontent.com/Soletion/Soletion/output/snake.svg" alt="Snake animation" />
+>>>>>>> 96e633188ff885df6360798a03155ecccc39cb52
 
 <div align="center">
+<<<<<<< HEAD
   <img src="https://metrics.lecoq.io/Soletion?template=classic&isocalendar=1&languages=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=375&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&config.timezone=Europe%2FMadrid" alt="Metrics" />
+=======
+  <img src="https://profile-counter.glitch.me/Soletion/count.svg?"  />
+>>>>>>> 96e633188ff885df6360798a03155ecccc39cb52
 </div>
 
 ---
