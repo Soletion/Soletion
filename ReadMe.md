@@ -2,6 +2,13 @@
 <p align="center">
   <img src="Header.png" alt="Header Image" width="1000" />
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=👋+Hola%2C+soy+Sol;Junior+Web+Developer;Ex-crimin%C3%B3loga+convertida+en+dev+%F0%9F%92%BB;Siempre+aprendiendo+y+compartiendo" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="left"> <h1>💫 Sobre mi: </h1> </p>
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM5MmN0bGt1aWltc3l5NGlpZ3ozanl1aWNzNXV0MWVlOW8yNzU1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cekRR561cp6tpnG8ZC/giphy.gif" />
 <p>
