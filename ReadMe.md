@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=👋+Hola%2C+soy+Sol;Junior+Web+Developer;Ex-crimin%C3%B3loga+convertida+en+dev;Siempre+aprendiendo+y+compartiendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B%20Hola%2C%20soy%20Sol;Junior%20Web%20Developer;Ex-crimin%C3%B3loga%20convertida%20en%20dev;Siempre%20aprendiendo%20y%20compartiendo" alt="Typing SVG" />
 </p>
 
 ## 💫 Sobre mí
