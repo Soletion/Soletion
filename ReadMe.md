@@ -24,7 +24,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/natashasolange/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.twitch.tv/Soletion"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="mailto:nsmcurbalan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -50,15 +49,15 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Soletion" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NSolDev" height="170" alt="Top Languages" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Soletion&theme=slateorange&hide_border=true&locale=es" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=NSolDev&theme=slateorange&hide_border=true&locale=es" height="170" alt="GitHub Streak" />
 </div>
 
 ## 🐍 Mi serpiente devoradora de contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Soletion/Soletion/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/NSolDev/NSolDev/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🎧 Lo que estoy escuchando ahora
@@ -72,5 +71,5 @@
 ## 👀 Visitas a mi perfil
 
 <div align="center">
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=Soletion&displayMode=miniCounter" />
+  <img src="https://github-visitor-counter-tau.vercel.app/api?username=NSolDev&displayMode=miniCounter" />
 </div>
